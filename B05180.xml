@@ -1,0 +1,151 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Act, for a monthly fast. Edinburgh, the second day of May, one thousand six hundred ninety and three years.</title>
+            <author>Scotland. Parliament. Committee of Estates.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1693</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B05180</idno>
+            <idno type="STC">Wing S1079</idno>
+            <idno type="STC">ESTC R183886</idno>
+            <idno type="EEBO-CITATION">52529447</idno>
+            <idno type="OCLC">ocm 52529447</idno>
+            <idno type="VID">178888</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B05180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178888)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2774:27)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Act, for a monthly fast. Edinburgh, the second day of May, one thousand six hundred ninety and three years.</title>
+                  <author>Scotland. Parliament. Committee of Estates.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by the heir of Andrew Anderson, Printer to their most excellent Majesties,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1693.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Royal arms at head of text.</note>
+                  <note>Signed at end: Extracted fort of the records of Parliament by Tarbat, Cls. Registi.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Fasts and feasts --  Scotland --  Early works to 1800.</term>
+               <term>Church and state --  Scotland --  Early works to 1800.</term>
+               <term>Broadsides --  Scotland --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-03</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:178888:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 7 -->
+            <head>
+               <figure>
+                  <figure>
+                     <figDesc>monogram of 'W' (William) superimposed on 'M' (Mary)</figDesc>
+                  </figure>
+                  <p>DIEV ET MON DROIT</p>
+                  <p>HONI SOIT QUI MAL Y PENSE</p>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </head>
+            <head>ACT, For a Monthly Faſt.</head>
+            <opener>
+               <dateline>Edinburgh, <date>the Second Day of <hi>May,</hi> One thouſand ſix hundred ninety and three Years.</date>
+               </dateline>
+            </opener>
+            <p>THE ESTATES OF PARLIAMEMT, upon Application, made to them, by the Miniſters of the Presbytery of <hi>Edinburgh,</hi> and ſeveral other Miniſters from other parts of this Kingdom, Taking to their Conſideration, the great important War wherein His Majeſty is ne<g ref="char:EOLhyphen"/>ceſſarly ingaged, for the Defence of the True Reform'd Religion, the Safety and Security of this, and His other Kingdoms; and the Recovery and Eſtabliſhment of the Rights, Liberties and Peace of the reſt of <hi>Chriſtendom,</hi> ſo much at this time Invaded and Diſturbed, with the continual Ha<g ref="char:EOLhyphen"/>zards to which His Majeſties Sacred Perſon is thereby expoſed: As likewiſe the Dangers which do thence Threaten this Kingdom, &amp; all that can be dear to His Majeſties good Subjects therein, either as Chri<g ref="char:EOLhyphen"/>ſtians or Men, both by Invaſion from Abroad, and the froward Diſaffection, and reſtleſs Machinations of evil and unnatural Countrey-men at Home; And how much it is the Duty and Intereſt of all good Men, for theſe Cauſes, and on this occaſion, to Implore the Mercy, Favour and Bleſſings of Almighty God, for Preſerving of His Majeſties Royal Perſon, and Directing, Aſſiſting and Proſpering Him in all His Counſels and Undertakings; And more eſpecially, that God would Countenance and Aſſiſt Him in the preſent War, give Him Succeſs to His Arms by Sea and Land, and Defeat all the Deſigns, Coun<g ref="char:EOLhyphen"/>ſels and Practices of His ſecret and open Enemies, both at Home and Abroad, for the Preſervation of the True Proteſtant Religion, ſecuring the Safety of theſe Kingdoms, and the happy Reſtoring of the Peace of <hi>Europe:</hi> Therefore Their Majeſties, with Advice and Conſent of the ſaids Eſtates of Parliament, Do hereby Command and Appoint. That a Day of Solemn Faſting and Humiliation, for making Prayers and Supplications to God, for the ends above-mentioned, be Religiouſly and ſtrictly obſerved by all perſons within this Kingdom, both in Churches and Meeting-Houſes, upon the third <hi>Thurſday</hi> of this Moneth of <hi>May,</hi> and the third <hi>Thurſday</hi> of every Moneth thereafter, until intimation of forbearance be made by the Lords of their Majeſtie<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Privy Council; And Ordains all Miniſters to read theſe Preſents pub<g ref="char:EOLhyphen"/>lickly in their Congregations, a <hi>Sunday</hi> at leaſt before the ſaid firſt Day appointed for keeping the ſaid Faſt, and ſo forth a <hi>Sunday</hi> before each third <hi>Thurſday</hi> foreſaid, during the ſpace above-mentioned a And their Majeſties with Conſent foreſaid, Ordains theſe Preſents to be Printed, and Publiſhed at the Mercat-Croſs of <hi>Edinburgh,</hi> and remanent Mercat-Croſſes of the Head-Burghs of the ſeveral Shires and Stewartries wihin this Kingdom, that none may Pretend ignorance; and that Copies be diſpatched in the uſual manner to the Sheriffs and Stuarts, Baillies of Regalities, their Deputs, and Magiſtrats of Burghs; as likewiſe to all Miniſters concerned, that they may ſeriouſly exhort all perſons to a ſincere and devour obſervance of the Premiſſes; Certifying ſuch of the Lieges who ſhall not give due obedience, or who ſhall contemn or neglect the keeping and obſerving of the ſaids Days and Duties, that they ſhall be pro<g ref="char:EOLhyphen"/>ceeded againſt, by Fining, not exceeding an hundred pounds <hi>Scots, toties quoties:</hi> And Warrands and Commands the Sheriffs, Stewarts of Stewartries, Lords and Bailies of Regalities, and their Deputs, Ju<g ref="char:EOLhyphen"/>ſtices of Peace, Magiſtrates of Burghs within their ſeveral Juriſdictions, to proceed againſt the perſons guilty, and to exact the Fines accordingly, to be applyed, the one half to the Judge, and the other half to the poor of the Paroch: And Certifying ſuch Miniſters as ſhall fail in their Duty, in not Reading this Proclamation, and obſerving the Duties therein preſcribed, they ſhall be Proceſſed before the Lords of their Majeſties Privy Council; and hereby Requires all Sheriffs, Stewarts, Lords and Baillies of Rega<g ref="char:EOLhyphen"/>lities, and their Deputs, Juſtices of Peace, Magiſtrats of Burghs, and their Clerks, to make Report to their Majeſties Privy Council, of theſe Miniſters who ſhall failȝie of their Duty herein.  <hi>Extracted forth of the Records of Parliament by</hi>
+            </p>
+            <closer>
+               <signed>TARBAT, Cls. Regiſtri.</signed>
+               <lb/>
+GOD Save King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Printed by the Heir of <hi>Andrew Anderſon,</hi> Printer to their moſt Excellent Majeſties, 1693.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
